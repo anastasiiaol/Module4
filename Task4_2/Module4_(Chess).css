@@ -1,0 +1,21 @@
+body {
+	background-color: white;
+}
+
+table {
+	height: 600px;
+	width: 600px;
+	border-collapse: collapse;
+}
+th {
+	height: 200px;
+	width: 200px;
+}
+
+.red {
+	background-color: #850000;
+}
+img {
+	height: 200px;
+	width: 200px;
+}
